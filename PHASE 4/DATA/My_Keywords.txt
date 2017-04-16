@@ -1,0 +1,23 @@
+
+USERS INTEREST AREA (10) -  sports, movies, technology computing, politics, news,economics, science, arts, health, religion
+
+BASIC EMOTIONS (6) -  joy, sadness, surprise, anger, fear , disgust
+
+SYNONYMS
+
+1- JOY(20) : delight, great pleasure, joyfulness, jubilation, triumph, exultation, rejoicing, happiness, gladness, glee, exhilaration, exuberance, elation, euphoria, bliss, ecstasy, rapture; enjoyment, felicity,jouissance
+
+2-SADNESS(17) - unhappiness, sorrow, dejection, depression, misery, despondency, despair, desolation, wretchedness, gloom, gloominess, dolefulness, melancholy, mournfulness, woe, heartache, grief
+
+3- SURPRISE(52) - shock, bolt from the blue, bombshell, revelation, rude awakening, eye-opener, wake-up call,astonishment, amazement, wonder, incredulity, bewilderment, stupefaction, disbelief,astonish, amaze, startle, astound, stun, stagger, shock,dumbfound, stupefy, daze,astonished, amazed, astounded, startled, stunned, staggered, nonplussed, shocked, taken aback, stupefied, dumbfounded, dumbstruck, speechless, thunderstruck, confounded, shaken up,unexpected, unforeseen, unpredictable;
+                astonishing, amazing, startling, astounding, staggering, incredible, extraordinary, breathtaking, remarkable
+
+4- ANGER(27) - rage, vexation, exasperation, displeasure, crossness, irritation, irritability, indignation, pique; annoyance, fury, wrath, ire, outrage, irascibility, ill temper, aggravation,infuriate, irritate, exasperate, irk, vex, peeve, madden,enrage, incense, annoy
+
+5 - FEAR(32) - terror, fright, fearfulness, horror, alarm, panic, agitation, trepidation, dread, consternation, dismay, distress; anxiety, worry, angst, unease, uneasiness, apprehension, apprehensiveness, nervousness, nerves, perturbation, foreboding,phobia, aversion, antipathy,bugbear, nightmare, horror, terror;
+           anxiety, neurosis
+
+6- DISGUST(17) - revulsion, repugnance, aversion, distaste, nausea, abhorrence, loathing, detestation, odium, horror; contempt, outrage,revolt, repel, repulse, sicken, nauseate
+
+TOTAL KEYWORDS - user interest areas + basic emotions + synonyms
+               = 10 +6 + 165 =  181
