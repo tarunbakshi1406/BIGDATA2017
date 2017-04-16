@@ -1,1 +1,7 @@
 //DATA ANALYSIS AND GRAPH GENERATION 
+
+We have used Linear Regression and Mann-Whiteney U Test for Data Analysis.
+
+Using Mann-Whiteney U Test we have generated histograms for user emotion score and user interest score (histograms are in the report)
+
+Using this we have found the mean score for the Pie Plot (plot is in the report)
